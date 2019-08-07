@@ -1,2 +1,3 @@
 # Practice
-It's my exercise repository.
+
+It's my django related exercise repository.
